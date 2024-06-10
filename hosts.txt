@@ -1,0 +1,2 @@
+#  Used as part of targeted attacks against government sectors
+application-download.net
