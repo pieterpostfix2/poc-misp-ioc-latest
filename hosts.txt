@@ -1,2 +1,2 @@
 #  Used as part of targeted attacks against government sectors
-mail.gov.kg.openingfile.net
+mail.antikor.gov.kz.openingfile.net
