@@ -1,2 +1,2 @@
 #  Used as part of targeted attacks against government sectors
-162.33.179.130
+mail.ticaret.gov.tr-redirect.net
