@@ -1,2 +1,2 @@
 #  Used as part of targeted attacks against government sectors
-mail.aop.gov.af.openingfile.net
+mail.mfa.gov.kg.openingfile.net
