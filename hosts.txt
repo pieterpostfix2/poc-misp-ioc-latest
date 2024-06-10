@@ -1,2 +1,2 @@
 #  Used as part of targeted attacks against government sectors
-mail.ticaret.gov.tr-redirect.net
+rkn-redirect.net
