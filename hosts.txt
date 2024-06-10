@@ -1,2 +1,2 @@
 #  Used as part of targeted attacks against government sectors
-auth0rization.cloud
+mail.aop.gov.af.openingfile.net
