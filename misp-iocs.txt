@@ -1,0 +1,16 @@
+
+# Misp Event ID 3
+# The Spy Kittens Are Back: Rocket Kitten 2
+ 84.11.146.62
+
+# Misp Event ID 3
+# The Spy Kittens Are Back: Rocket Kitten 2
+ 107.6.172.54
+
+# Misp Event ID 3
+# The Spy Kittens Are Back: Rocket Kitten 2
+ 107.6.181.116
+
+# Misp Event ID 3
+# The Spy Kittens Are Back: Rocket Kitten 2
+ gulfc.haifa.ac.il
