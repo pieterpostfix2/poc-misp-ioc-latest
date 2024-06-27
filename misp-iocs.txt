@@ -1,5 +1,7 @@
 # Last updated 2024-06-27 10:47
-WitchCoven: Exploiting Web Analytics to Ensnare Victims
-www.pinlady.net
-flashcritic.com
-634438a50ae1990c4f8636801c410460 
+APT28 Under the Scope - A Journey into Exfiltrating Intelligence and Government Information
+78450806e56b1f224d00455efcd04ce3
+075b6695ab63f36af65f7ffd45cccd39
+f3bf929a35c3f198226b88537d9ccb1a
+2683624eacc490238e98c449bddbb573
+5bf524a4860f3c33e3ad77b6b625db37 
