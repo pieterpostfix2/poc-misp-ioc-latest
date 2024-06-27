@@ -1,31 +1,16 @@
 # Last updated 2024-06-27 10:48
-Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites - Citizen Lab
-www.moi.gov.mm
-usafbi.websecexp.com
-usacia.websecexp.com
-webhttps.websecexp.com
-appeur.gnway.cc
-www.uecmyanmar.org
-118.193.212.98
-hjclub.info
-www.hjclub.info
-t2.mailsecurityservice.com
-t1.mailsecurityservice.com
-client.mailsecurityservice.com
-884d46c01c762ad6ddd2759fd921bf71
-15c926d2602f65be0de65fa9c06aa6c6
-198.44.190.85
-103.20.222.0
-59.44.49.88
-mailsecurityservice.com
-iyouthen.com
-gmail.iyouthen.com
-53f81415ccedf453d6e3ebcdc142b966
-c4c147bdfddffec2eea6bf99661e69ee
-56f0e67d981024ddcc215543698f44fb
-7e0081fba718fcd71753d3199a290f03
-6701662097e274f3cd089ceec35471d2
-699b3d90b050cae37f65c855ec7f616a
-5710d567d98a8f4a6682859ce3a35336
-cec071424d417a095221bf8992819388
-49ceba3347d39870f15f2ab0391af234 
+BOOTRASH - Fireeye
+372f1e4d2d5108bbffc750bb0909fc49
+ac64ef80f8209ae7b67be0be9ea6400e
+073a2998a6f1ccf0ea89fe60ce4bdeaf
+c145624f148980ad026ea7b79e61212d
+472926fe51fc6a4fdf687e8a4de64d78
+1c17c92519523a129e9abd298bb78521
+15de35de527ebe2115746b4fd4f1ba1d
+012e6f3ee70d6558f8002d0efce5c9e0
+dd366fcb810594e0620fdf672b03f4d5
+fed12e07499e8cd3a5a47f1f7a8db0be
+21cd4a30ac322bfc9bd2401ea17acfc0
+76b6dc622264e3ad822a691a7ec68865
+d0b9f9bccbc3725bfcc9546986982ff3
+efbff3b08b5d368976eb4675bb4c000f 
