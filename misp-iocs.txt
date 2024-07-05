@@ -1,13 +1,4 @@
 # Last updated 2024-07-05 09:05
-Misp Event ID 99
-bkmail.blogdns.com
-debain.servehttp.com
-linuxdns.sytes.net
-news.nhknews.hk
-sswmail.gotdns.com
-sswwmail.gotdns.com
-sysnc.sytes.net
-systeminfothai.gotdns.ch
-thailandbbs.ddns.net
-ubuntudns.sytes.net
-web12.nhknews.hk
+Misp Event ID 1010
+193.239.152.131
+62.210.83.213
