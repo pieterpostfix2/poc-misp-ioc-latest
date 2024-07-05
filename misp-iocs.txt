@@ -1,8 +1,24 @@
 # Last updated 2024-07-05 09:05
-Misp Event ID 1212
-5.149.254.114
-5.9.32.230
-31.210.111.154
-88.198.25.92
-146.0.74.7
-188.40.8.72
+Misp Event ID 1313
+www.forum-mil.net
+www.tvzvezda.net
+arms-expo.net
+forum-mil.net
+tvzvezda.net
+patriotp.com
+www.pressmil.com
+43.252.175.119
+123.254.104.50
+pressmil.com
+notebookhk.net
+fedpress.net
+dicemention.com
+business-isa.mynetav.org
+business-rsa.onmypc.org
+blacktan.cn
+leeghost.com
+www.leeghost.com
+www.dicemention.com
+darkst.com
+fsg2.cn
+www.arms-expo.net
